@@ -158,7 +158,7 @@
         return;
       }
       if (status) {
-        status.textContent = "This preview does not send the form. Call (778) 589-9125 or email info@elegantbath.ca.";
+        status.textContent = "This form does not send a message. Call (778) 589-9125 or email info@elegantbath.ca.";
       }
     });
   }

@@ -25,6 +25,8 @@ Date: 2026-11-07. No form was submitted to a server. Nothing was deployed.
 
 First-screen PNGs and layout JSON are in `tests/screenshots/`. Full-page PNGs are in `work/screenshots/` (that folder is gitignored by the screenshot tool).
 
+Copy polish on 2026-11-07: customer-facing process wording was rewritten. Spaces, fixtures, site check, interaction, design lint, and the Spaces and fixtures visual gates were run again. `run_checks.py` was not re-run. Its earlier exit 3, `BLOCKED/NOT RUN (not a pass)`, still stands because of the five-page cap and the CSS import notice.
+
 ## Limits
 
 Instagram files are preview size or a 415×550 screenshot crop. They are not enlarged past those pixels. Reel stills with a baked-in play control are not shown. The consult form does not send. Weekday 5:30 p.m. is the demo hour, not a confirmed change to the 5:00 p.m. line on elegantbath.ca.

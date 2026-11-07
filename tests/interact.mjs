@@ -185,7 +185,7 @@ const form = await evaluate(`(() => {
   return { error, focused, status: document.querySelector("#form-status").textContent };
 })()`);
 if (!form.error || form.focused !== "name") fail(`empty form ${JSON.stringify(form)}`);
-if (!form.status.includes("does not send the form")) fail(`valid form ${form.status}`);
+if (!form.status.includes("does not send a message")) fail(`valid form ${form.status}`);
 if (posts.length) fail(`form sent ${posts.join(" ")}`);
 
 await open("contact.html", 390, 844);

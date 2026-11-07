@@ -6,7 +6,7 @@
    "hero": "section.hero",
    "hero_visual": {
     "kind": "img",
-    "src": "http://127.0.0.1:37549/assets/images/slide7.jpg",
+    "src": "http://127.0.0.1:40653/assets/images/slide7.jpg",
     "width": 390,
     "height": 776,
     "share": 0.92
@@ -14,7 +14,7 @@
    "candidates": [
     {
      "kind": "img",
-     "src": "http://127.0.0.1:37549/assets/images/slide7.jpg",
+     "src": "http://127.0.0.1:40653/assets/images/slide7.jpg",
      "width": 390,
      "height": 776,
      "share": 0.92
@@ -26,7 +26,7 @@
    "hero": "section.hero",
    "hero_visual": {
     "kind": "img",
-    "src": "http://127.0.0.1:37549/assets/images/slide7.jpg",
+    "src": "http://127.0.0.1:40653/assets/images/slide7.jpg",
     "width": 768,
     "height": 896,
     "share": 0.875
@@ -34,7 +34,7 @@
    "candidates": [
     {
      "kind": "img",
-     "src": "http://127.0.0.1:37549/assets/images/slide7.jpg",
+     "src": "http://127.0.0.1:40653/assets/images/slide7.jpg",
      "width": 768,
      "height": 896,
      "share": 0.875
@@ -46,7 +46,7 @@
    "hero": "section.hero",
    "hero_visual": {
     "kind": "img",
-    "src": "http://127.0.0.1:37549/assets/images/slide7.jpg",
+    "src": "http://127.0.0.1:40653/assets/images/slide7.jpg",
     "width": 1440,
     "height": 783,
     "share": 0.87
@@ -54,7 +54,7 @@
    "candidates": [
     {
      "kind": "img",
-     "src": "http://127.0.0.1:37549/assets/images/slide7.jpg",
+     "src": "http://127.0.0.1:40653/assets/images/slide7.jpg",
      "width": 1440,
      "height": 783,
      "share": 0.87

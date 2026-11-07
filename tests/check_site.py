@@ -126,7 +126,7 @@ def main() -> int:
         if rel not in joined:
             failures.append(f"{rel} not used in a page")
     script = (ROOT / "site.js").read_text(encoding="utf-8")
-    if "preventDefault" not in script or "does not send the form" not in script:
+    if "preventDefault" not in script or "does not send a message" not in script:
         failures.append("form does not stay local")
     if failures:
         print("\n".join(failures))
