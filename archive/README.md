@@ -1,0 +1,1 @@
+The live demo HTML is stored byte-for-byte in demo-source-recovery.zip (six pages, with and without .html). Extracted copies are not kept in the tree so the old template is not treated as the new site.

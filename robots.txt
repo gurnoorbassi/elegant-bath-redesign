@@ -1,0 +1,3 @@
+# Preview pages also send a noindex meta tag.
+User-agent: *
+Disallow:

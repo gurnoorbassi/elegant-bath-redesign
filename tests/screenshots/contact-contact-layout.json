@@ -1,0 +1,65 @@
+{
+ "page": "/workspace/contact.html",
+ "widths": {
+  "390": {
+   "fold": 844,
+   "hero": "section.hero",
+   "hero_visual": {
+    "kind": "img",
+    "src": "http://127.0.0.1:41025/assets/images/slide6.jpg",
+    "width": 390,
+    "height": 776,
+    "share": 0.92
+   },
+   "candidates": [
+    {
+     "kind": "img",
+     "src": "http://127.0.0.1:41025/assets/images/slide6.jpg",
+     "width": 390,
+     "height": 776,
+     "share": 0.92
+    }
+   ]
+  },
+  "768": {
+   "fold": 1024,
+   "hero": "section.hero",
+   "hero_visual": {
+    "kind": "img",
+    "src": "http://127.0.0.1:41025/assets/images/slide6.jpg",
+    "width": 768,
+    "height": 896,
+    "share": 0.875
+   },
+   "candidates": [
+    {
+     "kind": "img",
+     "src": "http://127.0.0.1:41025/assets/images/slide6.jpg",
+     "width": 768,
+     "height": 896,
+     "share": 0.875
+    }
+   ]
+  },
+  "1440": {
+   "fold": 900,
+   "hero": "section.hero",
+   "hero_visual": {
+    "kind": "img",
+    "src": "http://127.0.0.1:41025/assets/images/slide6.jpg",
+    "width": 1440,
+    "height": 783,
+    "share": 0.87
+   },
+   "candidates": [
+    {
+     "kind": "img",
+     "src": "http://127.0.0.1:41025/assets/images/slide6.jpg",
+     "width": 1440,
+     "height": 783,
+     "share": 0.87
+    }
+   ]
+  }
+ }
+}
