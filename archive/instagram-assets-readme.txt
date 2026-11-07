@@ -1,0 +1,7 @@
+Five usable photo assets: four unchanged public OpenGraph JPEG derivatives and one clean screenshot crop. No generated or stock photos. No UI chrome in usable files. Suitable for modest cards/details; none suitable for a full-width high-resolution hero. Do not upscale beyond native pixels. Native OG crops may differ from the full Instagram post composition.
+
+Excluded from usable assets: DYTHq0PGs2h OG shower preview, DKVL2rVBq6g Kohler preview, DUr136nmKfK Brizo reel preview, DNbt8r7yYpF Rubinet reel preview: all contain baked-in play controls. Public OG evidence retains metadata only for these excluded previews. No video downloaded. No screenshot alterations besides a rectangular crop, no watermark removal, no invented location/installer credits.
+
+Attribution: all posts published by @elegantbath_. Only the master-ensuite caption expressly says Elegant Bath supplied fixtures; no claim they built or installed any project. Ocean Park location and Brookswood/Langley location are from browser notes, not independently supplied by OG metadata. Preserve source links in gallery/detail view. Copyright remains with original rights holders; posting by the business is provenance, not independent proof it owns all photographer rights.
+
+Retrieval: ordinary anonymous GET of canonical public Instagram post/reel HTML, then exactly the og:image URL publicly exposed. No query modification, internal APIs, login, cookies, paid Actors, proxy rotation, or block bypass.
