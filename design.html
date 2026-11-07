@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Design Consults | Elegant Bath</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap');
+    body { font-family: 'Inter', sans-serif; }
+    h1, h2, h3, .serif { font-family: 'Playfair Display', serif; }
+  </style>
+</head>
+<body class="bg-stone-50 text-stone-900">
+  <nav class="fixed w-full bg-white/90 backdrop-blur-md z-50 border-b border-stone-200">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+      <a href="index.html" class="text-2xl font-semibold serif tracking-tight">Elegant Bath</a>
+      <div class="hidden md:flex space-x-8 text-sm font-medium">
+        <a href="index.html" class="hover:text-stone-600 transition">Home</a>
+        <a href="about.html" class="hover:text-stone-600 transition">About</a>
+        <a href="products.html" class="hover:text-stone-600 transition">Collections</a>
+        <a href="portfolio.html" class="hover:text-stone-600 transition">Our Work</a>
+        <a href="design.html" class="hover:text-stone-600 transition">Design Consults</a>
+        <a href="contact.html" class="hover:text-stone-600 transition">Contact</a>
+      </div>
+      <a href="contact.html" class="bg-stone-900 text-white px-5 py-2 text-sm rounded-full hover:bg-stone-700 transition">Let's Talk</a>
+    </div>
+  </nav>
+  <section class="pt-32 pb-16 px-6 text-center">
+    <h1 class="text-5xl serif mb-6">Design Consults</h1>
+    <p class="text-xl text-stone-600 max-w-2xl mx-auto">Not sure where to start? Book a consultation with our design team.</p>
+  </section>
+  <section class="py-12 px-6 max-w-3xl mx-auto">
+    <div class="bg-white p-8 rounded-lg">
+      <h2 class="text-2xl serif mb-6">Book an Appointment</h2>
+      <form class="space-y-6">
+        <div>
+          <label class="block text-sm font-medium mb-2">Name</label>
+          <input type="text" class="w-full border border-stone-300 px-4 py-3 rounded-lg" placeholder="Your name">
+        </div>
+        <div>
+          <label class="block text-sm font-medium mb-2">Email</label>
+          <input type="email" class="w-full border border-stone-300 px-4 py-3 rounded-lg" placeholder="you@email.com">
+        </div>
+        <div>
+          <label class="block text-sm font-medium mb-2">Phone</label>
+          <input type="tel" class="w-full border border-stone-300 px-4 py-3 rounded-lg" placeholder="(778) 555-0123">
+        </div>
+        <div>
+          <label class="block text-sm font-medium mb-2">Project Type</label>
+          <select class="w-full border border-stone-300 px-4 py-3 rounded-lg">
+            <option>Bathroom Renovation</option>
+            <option>Kitchen Renovation</option>
+            <option>New Construction</option>
+            <option>Product Selection Only</option>
+          </select>
+        </div>
+        <div>
+          <label class="block text-sm font-medium mb-2">Message</label>
+          <textarea rows="4" class="w-full border border-stone-300 px-4 py-3 rounded-lg" placeholder="Tell us about your project or inspiration..."></textarea>
+        </div>
+        <button type="submit" class="w-full bg-stone-900 text-white py-4 rounded-lg font-medium hover:bg-stone-700 transition">Request Consultation</button>
+      </form>
+    </div>
+  </section>
+  <footer class="bg-stone-900 text-white py-16 px-6 mt-12">
+    <div class="max-w-7xl mx-auto text-center text-stone-400 text-sm">
+      © 2026 Elegant Bath · Call (778) 589-9125 or visit the showroom
+    </div>
+  </footer>
+</body>
+</html>
